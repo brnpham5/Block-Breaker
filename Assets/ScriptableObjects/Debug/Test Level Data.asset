@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1cfa3f19c5cef746be313132a246d9a, type: 3}
+  m_Name: Test Level Data
+  m_EditorClassIdentifier: 
+  levels:
+  - dropSpeed: 1.25
+    breakCount: 0
+  - dropSpeed: 1.15
+    breakCount: 10
+  - dropSpeed: 1.05
+    breakCount: 20
+  - dropSpeed: 0.95
+    breakCount: 30
+  - dropSpeed: 0.85
+    breakCount: 40
+  - dropSpeed: 0.75
+    breakCount: 50
+  - dropSpeed: 0.65
+    breakCount: 60
+  - dropSpeed: 0.55
+    breakCount: 70
+  - dropSpeed: 0.45
+    breakCount: 80
+  - dropSpeed: 0.35
+    breakCount: 90
+  - dropSpeed: 0.25
+    breakCount: 100
+  - dropSpeed: 0.15
+    breakCount: 110
+  - dropSpeed: 0.12
+    breakCount: 120
+  - dropSpeed: 0.1
+    breakCount: 130
+  - dropSpeed: 0.08
+    breakCount: 140

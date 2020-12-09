@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ce5539fc79214eb099951691e7d339c, type: 3}
+  m_Name: Board Space
+  m_EditorClassIdentifier: 
+  boundary: {fileID: 11400000, guid: a47063230b6eb4ccdaf20f9a817a460e, type: 2}

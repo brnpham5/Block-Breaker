@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93f690f7cea7f42c1a262e53f8d5af26, type: 3}
+  m_Name: Two Colors
+  m_EditorClassIdentifier: 
+  blocks:
+  - {fileID: 4043746342492629531, guid: 5a758de86032a4ce7bb909449463fcc3, type: 3}
+  - {fileID: 7674945994588903847, guid: 5b1d2785b8a4d4091a87e82ae7e79553, type: 3}
+  - {fileID: 7066265678770142863, guid: 40d936525dbf74ab6af5af3b2b7f3bc1, type: 3}
+  - {fileID: 3202089215843044961, guid: 3be9f3f247cc74aaeac004b357b7879a, type: 3}
+  diamond: {fileID: 4010713801540370601, guid: f515bd86bc1a38d4cb3b3ee89241ba6c, type: 3}
+  normalWeightMod: 0
+  breakerWeightMod: 0

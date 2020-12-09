@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 338bb941c493c44b3ba32e29925b0409, type: 3}
+  m_Name: yellow_norm
+  m_EditorClassIdentifier: 
+  type: 0
+  color: 1
+  weight: 1
+  original: {fileID: 21300000, guid: 9cbd0c27dfcad43799349d8f13b36fa2, type: 3}
+  topLeft: {fileID: 3682819746019733806, guid: b80a2cf2f2aaf42358a7f38cc90076b9, type: 3}
+  top: {fileID: -6130132614311975391, guid: b80a2cf2f2aaf42358a7f38cc90076b9, type: 3}
+  topRight: {fileID: 8519850726449895748, guid: b80a2cf2f2aaf42358a7f38cc90076b9,
+    type: 3}
+  left: {fileID: 7139271381789144320, guid: b80a2cf2f2aaf42358a7f38cc90076b9, type: 3}
+  middle_bright: {fileID: -2358653943293515485, guid: b80a2cf2f2aaf42358a7f38cc90076b9,
+    type: 3}
+  middle_split: {fileID: 3697372511499101217, guid: b80a2cf2f2aaf42358a7f38cc90076b9,
+    type: 3}
+  middle_dark: {fileID: -9025147970517780622, guid: b80a2cf2f2aaf42358a7f38cc90076b9,
+    type: 3}
+  right: {fileID: 7975101302834073464, guid: b80a2cf2f2aaf42358a7f38cc90076b9, type: 3}
+  bottomLeft: {fileID: -4196782701214358859, guid: b80a2cf2f2aaf42358a7f38cc90076b9,
+    type: 3}
+  bottom: {fileID: 4357822140862379609, guid: b80a2cf2f2aaf42358a7f38cc90076b9, type: 3}
+  bottomRight: {fileID: 3970722662799702424, guid: b80a2cf2f2aaf42358a7f38cc90076b9,
+    type: 3}
+  prefab: {fileID: 6642943952081921604, guid: 5b5f92c2fd098482795b5411e677a21e, type: 3}
+  particleOnBreak: {fileID: 2115005284740874888, guid: 7a0eef866b6ee614f8f4327acd0de3e6,
+    type: 3}
